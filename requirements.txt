@@ -1,4 +1,6 @@
-streamlit
+
+flask
 pytesseract
 pillow
 groq
+gunicorn
